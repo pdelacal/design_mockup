@@ -1,0 +1,33 @@
+/*920 height and 208 width x 6*/
+
+.black
+{
+  background-color: #1B1E25;
+}
+
+.white
+{
+  background-color: #FFFFFF;
+}
+
+.teal
+{
+  background-color: #2ABBAE;
+}
+
+.row
+{
+  height: 920px;
+  width: 1708px
+}
+
+.text-lg p
+{
+  font-size: 22px;
+}
+
+.row2
+{
+  height: 1120px;
+  width: 1708px
+}
